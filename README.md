@@ -1,4 +1,4 @@
-![image](https://github.com/VAISHNA1102/CodeEditor/assets/119734339/6d7ed4d7-86c8-41ab-8981-5119526d2f68)Code Editor Project
+Code Editor Project
 This repository contains the code for a code editor application, divided into client and server components.
 Getting Started
 To get started with using this code, follow these steps:
